@@ -1,4 +1,25 @@
 # Recell
+Inspriation
+Recell is dedicated to fight against the growing e-waste problem affecting the world. In 2022, 5.3 billion mobile phones will be thrown away according to the international waste electrical and electronic equipment (WEEE). This is a major environmental issue that we want to help solve.
+
+What it does
+Recell is a marketplace for people to list, discover and safely dispose of electronics. We want to bridge the gap between technology and sustainability.
+
+How we built it
+We created our application using Angular and Google Firebase
+
+Accomplishments that we're proud of
+We are proud of the application we were able to make during the hackathon, and the potential it has to help alleviate a major environmental issue.
+
+Built With
+angular.js
+firebase
+
+
+
+
+
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.6.
 
