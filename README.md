@@ -1,5 +1,7 @@
 # Recell
+![recell im2](https://github.com/bibeast123/Recell/assets/76572769/2d6207f3-56ab-4204-8212-3dcfbe91c4e9)
 Inspriation
+
 Recell is dedicated to fight against the growing e-waste problem affecting the world. In 2022, 5.3 billion mobile phones will be thrown away according to the international waste electrical and electronic equipment (WEEE). This is a major environmental issue that we want to help solve.
 
 What it does
